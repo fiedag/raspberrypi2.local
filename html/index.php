@@ -31,7 +31,7 @@
 	.btn {
 		height:80pt;
 		font-size: 25pt;
-		background-color: #027000;
+		background-color: #13ebfaff;
 	}
 	.alert {
 		height:80pt;
